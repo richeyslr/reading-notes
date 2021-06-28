@@ -10,7 +10,7 @@ have to teach yourself
 ### Sandbox learning
 - autonomy
 - exploration
-1 generate and select ideas
-2 planning and learning
-3 experimentation
-4 reflection
+  1 generate and select ideas
+  2 planning and learning
+  3 experimentation
+  4 reflection
