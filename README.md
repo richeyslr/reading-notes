@@ -1,11 +1,11 @@
 
 
-#Growth Mindset Notes
+# Growth Mindset Notes
 
-##Learning How to Learn
+## Learning How to Learn
 have to teach yourself
-###Path learning
+### Path learning
 school
 exchange of information
-###Sandbox learning
+### Sandbox learning
 autonomy
